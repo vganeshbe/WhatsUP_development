@@ -21,3 +21,5 @@
 
 8. What is the TestNG class to run the feature files?
 	AbstractTestNGCucumberTests
+	
+9. New feature
